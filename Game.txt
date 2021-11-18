@@ -1,1 +1,2 @@
 Welcome to merge-game-2 :) this file is under the master branch
+Welcome to merge-game :) this file is under the Feature branch
